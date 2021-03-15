@@ -4,7 +4,7 @@ Deep learning is a subfield of machine learning that builds predictive models us
 
 All course material will be posted here. See below for assignment deadlines.
 
-**NOTE: all lectures, labs and office hours will be held via Zoom until further notice. The links to each meeting can be found on the course Canvas site.**
+**NOTE: all lectures, labs and office hours will be held via Zoom. The links to each meeting can be found on the course Canvas site.**
 
 ### Course Instructor
 Heather Mattie  
