@@ -12,27 +12,28 @@ Lecturer on Biostatistics
 Harvard T.H. Chan School of Public Health  
 Building 1 Room 421A, 655 Huntington Ave, Boston   
 hemattie@hsph.harvard.edu  
-Office Hour: Tuesdays 1-2pm or by appointment
+Office hour: Mondays 8-9pm or by appointment
 
 ### Course Teaching Assistants
 Beau Coker
 PhD Candidate, Biostatistics  
 beaucoker@g.harvard.edu  
-Lab: 
+Office hour: 1-2pm EST
 
 Gopal Kotecha 
 PhD Candidate, Biostatistics  
 gkotecha@g.harvard.edu  
-Office Hours: 
+Office hour: Wednesdays 4:30-5:30pm EST 
 
+Lab: TBD
 
-#### Problem Set 1: 
+#### Problem Set 1: TBD
 
-#### Problem Set 2: 
+#### Problem Set 2: TBD
 
 #### Group Project Proposal: Due Friday, May 14th by 11:59pm
 
-#### Paper presentations will take place throughout the course starting week 2
+#### Paper presentations will take place throughout the course starting week 2 and must be recorded and posted to a discussion board on the course Canvas site.
 
 
 
