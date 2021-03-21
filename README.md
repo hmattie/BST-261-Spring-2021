@@ -27,7 +27,7 @@ Office hour: Wednesdays 4:30-5:30pm EST
 
 Lab: TBD
 
-#### Problem Set 1: TBD
+#### Problem Set 1: Due April 7 by 11:59pm EST
 
 #### Problem Set 2: TBD
 
