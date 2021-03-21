@@ -26,6 +26,7 @@ gkotecha@g.harvard.edu
 Office hour: Wednesdays 4:30-5:30pm EST 
 
 Lab: TBD
+
 Lab material and problem sets can be found in this [Google Drive folder](https://drive.google.com/drive/folders/17c0forK_uT1CpyREf1Aya1JWpw_M70Lt?usp=sharing).
 
 #### Problem Set 1: Due April 7 by 11:59pm EST
