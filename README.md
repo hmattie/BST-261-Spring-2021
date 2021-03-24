@@ -29,7 +29,7 @@ Lab: TBD
 
 Lab material and problem sets can be found in this [Google Drive folder](https://drive.google.com/drive/folders/17c0forK_uT1CpyREf1Aya1JWpw_M70Lt?usp=sharing).
 
-#### Problem Set 1: Due April 7 by 11:59pm EST
+#### Problem Set 1: Due April 9 by 11:59pm EST
 
 #### Problem Set 2: TBD
 
