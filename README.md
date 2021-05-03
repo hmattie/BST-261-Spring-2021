@@ -29,11 +29,11 @@ Lab: TBD
 
 Lab material and problem sets can be found in this [Google Drive folder](https://drive.google.com/drive/folders/17c0forK_uT1CpyREf1Aya1JWpw_M70Lt?usp=sharing).
 
-#### Problem Set 1: Due April 9 by 11:59pm EST
+#### Problem Set 1: Due April 9 by 11:59pm ET
 
-#### Problem Set 2: TBD
+#### Problem Set 2: Due May 7 by 11:59pm ET
 
-#### Group Project Proposal: Due Friday, May 14th by 11:59pm
+#### Group Project Proposal: Due Friday, May 14th by 11:59pm ET
 
 #### Paper presentations will take place throughout the course starting week 2 and must be recorded and posted to a discussion board on the course Canvas site.
 
